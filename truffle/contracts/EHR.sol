@@ -17,7 +17,7 @@ contract EHR {
     address doctorId;
   }
 
-  address private constant ADMIN = 0x43B4cC2345C6a5Abf825C0b26BF2e258aebd7fd2;
+  address private constant ADMIN = 0xe30e325e0da4338B992999388145566a36D0fe6B;
 
   struct Patient {
     address id;
